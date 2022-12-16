@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(../img/img-breakingbad.jpeg);
+  background-image: url(img-breakingbad.jpeg);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18,7 +18,7 @@ body {
 
 @keyframes ween {
   0%{
-  background: url(../img/img-breakingbad.jpeg);
+  background: url(img-breakingbad.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -28,7 +28,7 @@ body {
 
 @keyframes ween {
   0%{
-  background: url(../img/img-breakingbad2.jpeg);
+  background: url(img-breakingbad2.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -38,7 +38,7 @@ body {
 
 @keyframes ween {
   0%{
-  background: url(../img/img-breakingbad3.jpeg);
+  background: url(img-breakingbad3.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -48,7 +48,7 @@ body {
 
 @keyframes ween {
   0%{
-  background: url(../img/img-breakingbad4.jpeg);
+  background: url(img-breakingbad4.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
